@@ -1,6 +1,6 @@
 Name:		texlive-bidishadowtext
 Version:	34633
-Release:	1
+Release:	2
 Summary:	Bidi-aware shadow text
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/bidishadowtext
