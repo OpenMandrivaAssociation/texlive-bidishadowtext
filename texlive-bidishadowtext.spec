@@ -3,7 +3,7 @@ Version:	34633
 Release:	2
 Summary:	Bidi-aware shadow text
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/bidishadowtext
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/bidishadowtext
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/bidishadowtext.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/bidishadowtext.doc.r%{version}.tar.xz
